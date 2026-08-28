@@ -2,7 +2,7 @@
 
 Hi, I'm **Fikri Awalludin** — you can call me **Fik** 👋
 
-I'm a **Fullstack Engineer** who enjoys building things with a calm, critical, and problem-solving mindset.
+I'm a Fullstack Engineer who enjoys building things, solving problems, and understanding how things work under the hood.
 
 I'm passionate about **software development, web technologies, and exploring how things work under the hood**. I enjoy turning ideas into functional products, experimenting with new technologies, and continuously improving my skills through real-world projects.
 I believe that good software isn't just about writing code — it's about **understanding problems, designing solutions, and constantly learning along the way.**
@@ -18,11 +18,11 @@ I believe that good software isn't just about writing code — it's about **unde
 <img src="https://img.shields.io/github/followers/fikkkr?label=Followers&style=social" alt="GitHub Followers" />
 
 <!-- Bintang GitHub -->
-<img src="https://img.shields.io/github/stars/fikkkr?label=Stars&style=social" alt="GitHub Stars" />
-</div>
+<!-- <img src="https://img.shields.io/github/stars/fikkkr?label=Stars&style=social" alt="GitHub Stars" /> -->
+<!-- </div> -->
 
 
-## 🛠️ Saya menguasai
+## 🛠️ Tech stack & Tools
 
 <div align="center">
 
