@@ -1,6 +1,15 @@
-# 👤 Halo, senang bertemu dengan Anda
+# 👤 Hi There...
 
-Halo semuanya, saya **Fikri Awalludin**—Anda bisa memanggil saya Fik. Saya adalah seorang Fullstack Enginner, **senang berpikir dan berkarya dengan pola pikir yang tenang serta kritis**. <br/>
+Hi, I'm **Fikri Awalludin** — you can call me **Fik** 👋
+
+I'm a **Fullstack Engineer** who enjoys building things with a calm, critical, and problem-solving mindset.
+
+I'm passionate about **software development, web technologies, and exploring how things work under the hood**. I enjoy turning ideas into functional products, experimenting with new technologies, and continuously improving my skills through real-world projects.
+I believe that good software isn't just about writing code — it's about **understanding problems, designing solutions, and constantly learning along the way.**
+
+**Currently learning, building, and breaking things to make them better. 🚀**
+. <br/>
+
 <div align="center">
 <!-- Penghitung Tayangan Profil -->
 <img src="https://komarev.com/ghpvc/?username=fikkkr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
