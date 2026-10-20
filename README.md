@@ -49,3 +49,7 @@ I believe that good software isn't just about writing code — it's about **unde
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=b1wwwwww&theme=tokyonight&hide_border=true&background=0f071e&ring=a855f7&fire=c084fc&currStreakNum=e2e8f0" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/b1wwwwww/b1wwwwww/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
