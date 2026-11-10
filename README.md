@@ -2,6 +2,8 @@
 
 Hi, I'm **Fikri Awalludin** — you can call me **Fik** 👋
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f3ff,50:7aa2f7,100:bb9af7&height=200&section=header&text=Fikri%20Awalludin%20Rahmat&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" />
+
 I'm a Fullstack Engineer who enjoys building things, solving problems, and understanding how things work under the hood.
 
 I'm passionate about **software development, web technologies, and exploring how things work under the hood**. I enjoy turning ideas into functional products, experimenting with new technologies, and continuously improving my skills through real-world projects.
