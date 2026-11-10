@@ -31,7 +31,7 @@ I believe good software isn't just about writing code. It's about **understandin
 
 <!-- ==================== TECH STACK ==================== -->
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 Technologies and tools I work with and continue to explore.
 
